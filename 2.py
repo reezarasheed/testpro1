@@ -1,1 +1,1 @@
-uyy
+print(gghjhjk)
